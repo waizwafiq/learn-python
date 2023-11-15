@@ -1,0 +1,4 @@
+This is a sample text file.
+It contains several lines of text.
+Each line has a few words.
+The program will read this file, count the words, and print the result.

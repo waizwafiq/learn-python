@@ -1,5 +1,0 @@
-Python is a high-level programming language.
-It is known for its simplicity and readability.
-File handling in Python is essential for working with files.
-Python can be used for a wide range of applications.
-This is a sample input file for the word count program.
